@@ -1,5 +1,5 @@
 @sveddah
 into fashion, art and design generally
-js, html, css, php
-sveddah@gmail.com
+js, python, html, css, php
+lulatomasz01@gmail.com
 
